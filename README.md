@@ -1,6 +1,5 @@
-# Michel Bresson
 
-![](images/IMG_3830%202.jpg)
+![](images/IMG_3830.jpg)
 
 Chemin sous-bois 1 - Huile sur toile - 55 x 46
 
