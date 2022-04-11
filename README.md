@@ -34,7 +34,7 @@ Sous-bois 1 - Huile sur toile - 55 x 46
 
 Labour 1 - Huile sur toile - 130 x 162
 
-![](images/IMG_4732.jpg)
+![](images/IMG_5425.jpg)
 
 Labour 1 - Huile sur toile - 130 x 162
 
