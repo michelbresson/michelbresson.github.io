@@ -1,3 +1,6 @@
+---
+title: Michel Bresson
+---
 
 ![](images/IMG_3830.jpg)
 
