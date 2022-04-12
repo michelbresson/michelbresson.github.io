@@ -22,7 +22,13 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        
+        <br>
+        
+        {% include description.html %}
 
+        <br>
+        
         {% include navigation.html %}
         
       </header>
