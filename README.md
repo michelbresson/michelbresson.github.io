@@ -1,4 +1,8 @@
 
+![](images/IMG_5425.jpg)
+
+Champ moissonné - Huile sur toile - 169 x 205
+
 ![](images/IMG_3830.jpg)
 
 Chemin sous-bois 1 - Huile sur toile - 55 x 46
