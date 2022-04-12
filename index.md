@@ -2,7 +2,7 @@
 ![](images/IMG_5425.jpg)
 Champ moissonné au ciel noir - Huile sur toile - 169 x 205
 
-![](images/Chemin murets pierres1.jpg)
+![](images/Chemin_murets_pierres1.jpg)
 Chemin murs de pierres 1 - Huile sur toile - 55 x 46
 
 ![](images/Chemin_sous-bois1.jpg)
