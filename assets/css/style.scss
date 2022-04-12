@@ -2,7 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-h1 a { 
+h1 a, h1 a:hover, h1 a:focus { 
 	color : #444444 ;
 	font-weight: bold;
 	text-decoration : none;
