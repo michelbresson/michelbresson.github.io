@@ -23,7 +23,7 @@ Chemin murs de pierres 2 - Huile sur toile - 55 x 46
 
 Chemin murs de pierres 3 - Huile sur toile - 55 x 46
 
-![](images/IMG-C13D16D8-95C1-4834-AC0C-30DF431C93CA.JPG)
+![](C13D16D8-95C1-4834-AC0C-30DF431C93CA.JPG)
 
 Labour 2 - Huile sur toile - 130 x 162
 
