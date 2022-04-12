@@ -5,7 +5,7 @@ Champ moissonné au ciel noir - Huile sur toile - 169 x 205
 
 ![](images/IMG_3830.jpg)
 
-Chemin sous-bois 1 - Huile sur toile - 55 x 46
+Chemin murs de pierres 1 - Huile sur toile - 55 x 46
 
 ![](images/IMG_4732.jpg)
 
@@ -17,11 +17,11 @@ Chemin sous-bois 3 - Huile sur toile - 55 x 46
 
 ![](images/IMG_5038.jpg)
 
-Chemin sous-bois 4 - Huile sur toile - 55 x 46
+Chemin murs de pierres 2 - Huile sur toile - 55 x 46
 
 ![](images/IMG_5041.jpg)
 
-Chemin sous-bois 4 - Huile sur toile - 55 x 46
+Chemin murs de pierres - Huile sur toile - 55 x 46
 
 ![](images/IMG_3639.jpg)
 
