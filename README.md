@@ -21,7 +21,7 @@ Chemin murs de pierres 2 - Huile sur toile - 55 x 46
 
 ![](images/IMG_5041.jpg)
 
-Chemin murs de pierres - Huile sur toile - 55 x 46
+Chemin murs de pierres 3 - Huile sur toile - 55 x 46
 
 ![](images/IMG_3639.jpg)
 
