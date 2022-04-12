@@ -14,7 +14,7 @@ Chemin sous-bois 2 - Huile sur toile - 55 x 46
 ![](images/Chemin_murets_pierres2.jpg)
 Chemin murs de pierres 2 - Huile sur toile - 55 x 46
 
-![](images/C13.jpg)
+![](images/Chemin_murets_pierres3.jpg)
 Chemin murs de pierres 3 - Huile sur toile - 55 x 46
 
 ![](images/Labour2.jpg)
