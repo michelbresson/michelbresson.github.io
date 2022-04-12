@@ -3,9 +3,21 @@
 @import "{{ site.theme }}";
 
 h1 a { 
-	/* margin-top: -10px; */
-	/* font-family: "Calibri"; */
 	color : #444444 ;
+}
+
+a {
+	color : #444444;
+	font-weight: plain;
+	text-decoration : none;
+}
+
+a:hover, a:focus {
+	text-decoration : underline;
+}
+
+ul {
+	list-style-type: none;
 }
 
 /*
